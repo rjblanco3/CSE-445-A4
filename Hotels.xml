@@ -1,127 +1,126 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="Hotels.xsd">
 
-	<Hotel Rating="4.5">
-		<Name>Hyatt Place Phoenix/Mesa</Name>
-		<Phone>480-969-8200</Phone>
-		<Phone>888-492-8847</Phone>
-		<Address Number="1422">
-			<Street>W Bass Pro Dr</Street>
-			<City>Mesa</City>
-			<State>AZ</State>
-			<Zip>85201</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
-		</Address>
-	</Hotel>
+  <Hotel Rating="4.5">
+    <Name>Hyatt Place Phoenix/Mesa</Name>
+    <Phone>480-969-8200</Phone>
+    <Phone>888-492-8847</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>1422</Number>
+      <Street>W Bass Pro Dr</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85201</Zip>
+    </Address>
+  </Hotel>
 
-	<Hotel Rating="4.3">
-		<Name>Courtyard by Marriott Mesa at Wrigleyville West</Name>
-		<Phone>480-590-8000</Phone>
-		<Address Number="2224">
-			<Street>W Rio Salado Pkwy</Street>
-			<City>Mesa</City>
-			<State>AZ</State>
-			<Zip>85201</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
-		</Address>
-	</Hotel>
+  <Hotel Rating="4.3">
+    <Name>Courtyard by Marriott Mesa at Wrigleyville West</Name>
+    <Phone>480-590-8000</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>2224</Number>
+      <Street>W Rio Salado Pkwy</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85201</Zip>
+    </Address>
+  </Hotel>
 
-	<Hotel Rating="4.2">
-		<Name>Sheraton Mesa Hotel at Wrigleyville West</Name>
-		<Phone>480-664-1221</Phone>
-		<Address Number="860">
-			<Street>N Riverview</Street>
-			<City>Mesa</City>
-			<State>AZ</State>
-			<Zip>85201</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
-		</Address>
-	</Hotel>
+  <Hotel>
+    <Name>Sheraton Mesa Hotel at Wrigleyville West</Name>
+    <Phone>480-664-1221</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>860</Number>
+      <Street>N Riverview</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85201</Zip>
+    </Address>
+  </Hotel>
 
-	<Hotel Rating="4.1">
-		<Name>Delta Hotels by Marriott Phoenix Mesa</Name>
-		<Phone>480-898-8300</Phone>
-		<Address Number="200">
-			<Street>N Centennial Way</Street>
-			<City>Mesa</City>
-			<State>AZ</State>
-			<Zip>85201</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
-		</Address>
-	</Hotel>
+  <Hotel Rating="4.1">
+    <Name>Delta Hotels by Marriott Phoenix Mesa</Name>
+    <Phone>480-898-8300</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>200</Number>
+      <Street>N Centennial Way</Street>
+      <City>Mesa</City>
+      <State>AZ</State>
+      <Zip>85201</Zip>
+    </Address>
+  </Hotel>
 
-	<Hotel Rating="4.4">
-		<Name>Residence Inn Tempe Downtown/University</Name>
-		<Phone>480-967-2300</Phone>
-		<Address Number="510">
-			<Street>S Forest Ave</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
-		</Address>
-	</Hotel>
+  <Hotel Rating="4.4">
+    <Name>Residence Inn Tempe Downtown/University</Name>
+    <Phone>480-967-2300</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>510</Number>
+      <Street>S Forest Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
 
-	<Hotel Rating="4.3">
-		<Name>Hyatt House Tempe / Phoenix / University</Name>
-		<Phone>480-207-1578</Phone>
-		<Address>
-			<Street>E 6th St</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
-		</Address>
-	</Hotel>
+  <Hotel>
+    <Name>Hyatt House Tempe / Phoenix / University</Name>
+    <Phone>480-207-1578</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>601</Number>
+      <Street>E 6th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
 
-	<Hotel Rating="4.0">
-		<Name>Aloft Tempe</Name>
-		<Phone>480-621-3300</Phone>
-		<Phone>888-236-2427</Phone>
-		<Address>
-			<Street>E Playa Del Norte Dr</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
-		</Address>
-	</Hotel>
+  <Hotel Rating="4.0">
+    <Name>Aloft Tempe</Name>
+    <Phone>480-621-3300</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>951</Number>
+      <Street>E Playa Del Norte Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
 
-	<Hotel Rating="4.2">
-		<Name>Canopy by Hilton Tempe Downtown</Name>
-		<Phone>480-968-6800</Phone>
-		<Address Number="108">
-			<Street>E University Dr</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
-		</Address>
-	</Hotel>
+  <Hotel Rating="4.2">
+    <Name>Canopy by Hilton Tempe Downtown</Name>
+    <Phone>480-968-6800</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>108</Number>
+      <Street>E University Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
 
-	<Hotel Rating="4.6">
-		<Name>Omni Tempe Hotel at ASU</Name>
-		<Phone>602-794-8600</Phone>
-		<Address Number="7">
-			<Street>E University Dr</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
-		</Address>
-	</Hotel>
+  <Hotel Rating="4.6">
+    <Name>Omni Tempe Hotel at ASU</Name>
+    <Phone>602-794-8600</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>7</Number>
+      <Street>E University Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
 
-	<Hotel Rating="4.1">
-		<Name>Hampton Inn &amp; Suites Phoenix Tempe</Name>
-		<Phone>480-941-3441</Phone>
-		<Address>
-			<Street>N Scottsdale Rd</Street>
-			<City>Tempe</City>
-			<State>AZ</State>
-			<Zip>85281</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
-		</Address>
-	</Hotel>
+  <Hotel Rating="4.7">
+    <Name>The Phoenician, a Luxury Collection Resort, Scottsdale</Name>
+    <Phone>480-941-8200</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>6000</Number>
+      <Street>E Camelback Rd</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85251</Zip>
+    </Address>
+  </Hotel>
 
 </Hotels>
